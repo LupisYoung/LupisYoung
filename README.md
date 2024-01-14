@@ -15,6 +15,12 @@
 🤖 **Velvet**  -  A private **Discord Bot** in early development
 
 
+## 🪦 Past Projects
+🤖 **CSBot**    -    **Discord Bot** for the [Geometry Dash Creator School](https://www.youtube.com/c/GDCreatorSchool) server, deprecated in **January 2023**
+
+📖 **Beyond The Rift**    -    **Visual Novel** developed in [Ren'Py](https://www.renpy.org), seized development in **October 2023**
+
+
 ## 🖥️ Workspace Setup
 [![cpu](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/product/8446)
 [![gpu](https://img.shields.io/badge/AMD-Radeon_RX_6750XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx6750xt-o12g/)

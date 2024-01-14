@@ -9,6 +9,12 @@
 🎮 I also play a lot of **Video Games**, having favorites in various genres such as **Racing**, **Simulation**, **Rhythm** and **Action**.
 
 
+## 🔭 Current Projects
+🌍 [**lupis.live**](https://lupis.live)  -  My personal [open-source](https://github.com/lupisyoung/lupis.live) website that I'm working on
+
+🤖 **Velvet**  -  A private **Discord Bot** in early development
+
+
 ## 🖥️ Workspace Setup
 [![cpu](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/product/8446)
 [![gpu](https://img.shields.io/badge/AMD-Radeon_RX_6750XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.asus.com/motherboards-components/graphics-cards/dual/dual-rx6750xt-o12g/)
@@ -18,7 +24,15 @@
 [![mac](https://img.shields.io/badge/Apple-MacBook_Air_M2-717378?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-air-13-and-15-m2/)
 [![macos](https://img.shields.io/badge/macOS-Sonoma_14.3-578F1B?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/sonoma/)
 
+## 📈 Stats
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=lupisyoung&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=lupisyoung&show_icons=true&hide_border=true" alt="Lupis' GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=lupisyoung.lupisyoung" alt="visitors">
+</div>
 
 ## 🔗 Links
 [![web](https://img.shields.io/badge/website-961850?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://lupis.live)

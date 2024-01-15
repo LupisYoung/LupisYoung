@@ -18,7 +18,7 @@
 ## 🪦 Past Projects
 🤖 **CSBot**    -    **Discord Bot** for the [Geometry Dash Creator School](https://www.youtube.com/c/GDCreatorSchool) server, deprecated in **January 2023**
 
-📖 **Beyond The Rift**    -    **Visual Novel** developed in [Ren'Py](https://www.renpy.org), seized development in **October 2023**
+📖 **Name Hidden**    -    **Visual Novel** developed in [Ren'Py](https://www.renpy.org), left development in **October 2023**
 
 
 ## 🖥️ Workspace Setup

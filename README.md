@@ -28,7 +28,7 @@
 [![ide](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
 
 [![mac](https://img.shields.io/badge/Apple-MacBook_Air_M2-717378?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-air-13-and-15-m2/)
-[![macos](https://img.shields.io/badge/macOS-Sonoma_14.3-578F1B?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/sonoma/)
+[![macos](https://img.shields.io/badge/macOS-Sonoma_14.4-578F1B?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/sonoma/)
 
 ## 📈 Stats
 

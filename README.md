@@ -43,8 +43,8 @@
 ## 🔗 Links
 [![web](https://img.shields.io/badge/website-961850?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://lupis.live)
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/lupisyoung)
-[![twitter](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/smolwoofloop)
-[![twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=ffffff)](https://twitch.tv/smolwoofloop)
+[![x](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/lupisyoung)
+[![twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=ffffff)](https://twitch.tv/lupisyoung)
 
 
 <!--

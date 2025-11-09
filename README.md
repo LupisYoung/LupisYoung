@@ -1,8 +1,8 @@
 # Hi there 👋
 ## 🚀 About me
-🐺 I'm **Lupis**, an **IT specialist** in training based in Germany exploring the world of **Programming** and **Web Development**.
+🐺 I'm **Lupis**, a **freelance video editor** based in Germany exploring the world of **Programming** and **Web Development**.
 
-🧑🏻‍💻 I've always had a high interest in learning about computers and experimented with them since my early childhood, and I'm currently absolving an apprenticeship as a **System Integrator**.
+🧑🏻‍💻 I've always had a high interest in learning about computers and experimented with them since my early childhood.
 
 🎤 Outside of working with computers, I also enjoy **singing**, having been featured in [**multiple songs**](https://open.spotify.com/playlist/2xUUaSCJS5CoNqH8UBDGwH) as the main vocalist and looking to expand my portfolio.
 
@@ -10,15 +10,15 @@
 
 
 ## 🔭 Current Projects
-🌍 [**lupis.live**](https://lupis.live)  -  My personal [open-source](https://github.com/lupisyoung/lupis.live) website that I'm working on
+🛠️ [**Blender Shapekey Add-Ons**](https://github.com/LupisYoung/Blender-Shapekey-Addons)  -  A simple and efficient Blender add-on that streamlines shapekey organization and editing
 
-🤖 **Velvet**  -  A private **Discord Bot** in early development
+🌍 [**lupis.live**](https://lupis.live)  -  My personal [open-source](https://github.com/lupisyoung/lupis.live) website that I'm working on
 
 
 ## 🪦 Past Projects
-🤖 **CSBot**    -    **Discord Bot** for the [Geometry Dash Creator School](https://www.youtube.com/c/GDCreatorSchool) server, deprecated in **January 2023**
+🤖 **CSBot**  -  **Discord Bot** for the [Geometry Dash Creator School](https://www.youtube.com/c/GDCreatorSchool) server, deprecated in **January 2023**
 
-📖 **Name Hidden**    -    **Visual Novel** developed in [Ren'Py](https://www.renpy.org), left development in **October 2023**
+📖 **Name Hidden**  -  **Visual Novel** developed in [Ren'Py](https://www.renpy.org), left development in **October 2023**
 
 
 ## 🖥️ Workspace Setup

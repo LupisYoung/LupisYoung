@@ -23,12 +23,12 @@
 
 ## 🖥️ Workspace Setup
 [![cpu](https://img.shields.io/badge/AMD-Ryzen_7_9700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/product/8446)
-[![gpu](https://img.shields.io/badge/Nvidia_RTX_5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://inno3d.com/product/inno3d-geforce-rtx-5080-x3)
+[![gpu](https://img.shields.io/badge/Nvidia-RTX_5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://inno3d.com/product/inno3d-geforce-rtx-5080-x3)
 [![os](https://img.shields.io/badge/Windows_11_Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
 [![ide](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
 
 [![mac](https://img.shields.io/badge/Apple-MacBook_Air_M2-717378?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-air-13-and-15-m2/)
-[![macos](https://img.shields.io/badge/macOS-Tahoe_26.1-578F1B?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/tahoe/)
+[![macos](https://img.shields.io/badge/macOS-Tahoe_26-578F1B?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/os/macos/)
 
 ## 📈 Stats
 

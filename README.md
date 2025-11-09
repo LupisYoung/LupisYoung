@@ -21,6 +21,10 @@
 📖 **Name Hidden**  -  **Visual Novel** developed in [Ren'Py](https://www.renpy.org), left development in **October 2023**
 
 
+## 🤝 Contributions
+📱 [**VRCi**](https://github.com/VRCiOS/VRCi)  -  Assisted with German localization
+
+
 ## 🖥️ Workspace Setup
 [![cpu](https://img.shields.io/badge/AMD-Ryzen_7_9700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/product/8446)
 [![gpu](https://img.shields.io/badge/Nvidia-RTX_5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://inno3d.com/product/inno3d-geforce-rtx-5080-x3)
